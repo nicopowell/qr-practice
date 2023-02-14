@@ -34,6 +34,7 @@ section {
   padding: 1rem;
   text-align: center;
   border-radius: 1rem;
+  box-shadow: 15px 15px 15px #00000070;
 }
 
 img {
